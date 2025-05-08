@@ -20,3 +20,5 @@ The following prerequisites are expected to be made in order to run through this
     - 2xL4 GPUs
     - 2xT4 GPUs
 
+**Note**: If Using The Brev Launchable, you'll be provided a 4xL40S GPU instance to enabled multiple concurrent streams when interacting with the avatar (3+). However, for minimal deployments that don't require support for concurrent streams, 2x GPUs are sufficient.
+
